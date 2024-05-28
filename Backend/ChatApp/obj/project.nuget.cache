@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xmiOYaPFFKNfZhFZIhij3B04Xx4z3B7c7NEcxGLb/UgLZj+yUWKSu1jxeeif3tSIKN/AT9/Dsv+iFlOPi1cf5Q==",
+  "dgSpecHash": "Mo7cTUIE95u8qhA0SPxGNcC0h0H4baWRYasgZqHUM22aopfYTB0Er0cHsmaRQ725AN1O4FsC70+/TiHoHW4+tA==",
   "success": true,
-  "projectFilePath": "G:\\Backend Development\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
+  "projectFilePath": "G:\\Backend Development\\ChatApp\\Backend\\ChatApp\\ChatApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\9.0.0-preview.4.24267.6\\microsoft.aspnetcore.connections.abstractions.9.0.0-preview.4.24267.6.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\9.0.0-preview.4.24267.6\\microsoft.aspnetcore.http.connections.client.9.0.0-preview.4.24267.6.nupkg.sha512",

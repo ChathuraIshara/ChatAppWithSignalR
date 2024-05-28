@@ -1393,11 +1393,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Backend Development\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
+      "projectUniqueName": "G:\\Backend Development\\ChatApp\\Backend\\ChatApp\\ChatApp.csproj",
       "projectName": "ChatApp",
-      "projectPath": "G:\\Backend Development\\ChatApp\\ChatApp\\ChatApp\\ChatApp.csproj",
+      "projectPath": "G:\\Backend Development\\ChatApp\\Backend\\ChatApp\\ChatApp.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "G:\\Backend Development\\ChatApp\\ChatApp\\ChatApp\\obj\\",
+      "outputPath": "G:\\Backend Development\\ChatApp\\Backend\\ChatApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
